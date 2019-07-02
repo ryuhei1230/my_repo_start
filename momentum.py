@@ -2,7 +2,6 @@ import matplotlib.animation as anm
 import matplotlib.pyplot as plt
 import numpy as np
 
-abc
 
 X, Y = np.mgrid[-10:11, -10:11]
 Z = X**2 + 3 * Y**2
